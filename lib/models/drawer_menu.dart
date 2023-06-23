@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+List<Widget> drawerItems = [
+   ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+   ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.home), trailing: const Icon(Icons.arrow_forward), title: const Text("Home"), onTap: () => {},),
+  ListTile(leading: const Icon(Icons.list), trailing: const Icon(Icons.arrow_forward), title: const Text("Product List"), onTap: () => {},),
+
+];
